@@ -1,4 +1,4 @@
-# etch-a-sketch
+# Etch a Sketch
 
 Web application where you can sketch based on pixels. Supports three different colors, eraser, clean button and different grid sizes.
 
